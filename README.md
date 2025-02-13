@@ -142,6 +142,7 @@ This error occurs because Home Assistant doesn’t "trust" the VM’s SSH finger
    - Test it to see if the container starts.
 
 ---
+
 ## Enjoy..
 
 ---
