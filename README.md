@@ -17,6 +17,8 @@
 
 # Control and Automate Docker Containers using Home Assistant
 
+<img src="https://alphaville.github.io/optimization-engine/img/docker.gif" width="200">
+
 With this method, you can seamlessly interact with Docker containers running on a different machine (e.g., a virtual machine or physical server) using Home Assistant. Whether you need to start, stop, restart, or kill containers, this setup provides a simple way to control your containers using Home Assistant’s powerful automation system.
 
 - start container
